@@ -13,4 +13,4 @@ I'm an ambitious programmer with interests in entrepreneurship and infrastructur
 - UrbanDict
 
 ## Contact
-- [PixelCoda#0001](https://discord.com/users/762918142505648168)
+- [P1xelC0da#0001](https://discord.com/users/762918142505648168)
