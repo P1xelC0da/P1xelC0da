@@ -11,4 +11,4 @@ Hey there! I'm Damian, a 17-year-old who is ambitious about learning how to code
 - UrbanDict
 
 ## Contact
-You can reach me through Discord at [dayshallelujah](https://discord.com/users/837492435473924106).
+You can reach me through Discord at [dayshallelujah](https://discord.com/users/837492435473924106), or on the Hack Club [Slack](https://hackclub.slack.com).
